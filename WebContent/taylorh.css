@@ -1,3 +1,11 @@
 @CHARSET "ISO-8859-1";
 body {background-color:purple;}
-h1 {text-align:center;}
+h1 {font-style:oblique;font-style:"Comic Sans MS", cursive, sans-serif;text-align:center;border: 5px solid brown;border-radius:2em;}
+div#intro {font-style:oblique;text-align:center;border-radius:2em;background-color:#666699;}
+div#davecolumn {text-align: center;font-style:"Comic Sans MS", cursive, sans-serif;}
+div#chetcolumn {text-align: center;font-style:"Comic Sans MS", cursive, sans-serif;}
+div#everlycolumn {text-align: center;font-style:"Comic Sans MS", cursive, sans-serif;}
+
+
+
+
